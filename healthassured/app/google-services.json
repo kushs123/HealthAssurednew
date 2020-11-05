@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "741541476171",
+    "firebase_url": "https://health-assured-194d0.firebaseio.com",
+    "project_id": "health-assured-194d0",
+    "storage_bucket": "health-assured-194d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741541476171:android:7611f6da97d19710735ace",
+        "android_client_info": {
+          "package_name": "com.example.healthassured"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741541476171-vmsshlb4tlgdfk5ngsg9kcabt78mn82b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healthassured",
+            "certificate_hash": "11d9b2a7d4632c9fc4f47a791fa1ddff8cad2cdf"
+          }
+        },
+        {
+          "client_id": "741541476171-filge0hr96tc7631na9a0g994h7b2ssp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdh-RqdCJaH5nZObyvPDYe0o-kpUzfN3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741541476171-filge0hr96tc7631na9a0g994h7b2ssp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
